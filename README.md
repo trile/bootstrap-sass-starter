@@ -1,4 +1,4 @@
-Super quick start for development (updated with source from Bootstrap 4.0.0-alpha.6)
+Sgit remote add origin https://github.com/trile/bootstrap-sass-starter.gituper quick start for development (updated with source from Bootstrap 4.0.0-alpha.6)
 
 
 ## Quick start
